@@ -5,7 +5,7 @@ using UnityEngine;
 public class AmmoScript : MonoBehaviour
 {
     [SerializeField]
-    private float ammoTime = 1;
+    private float ammoTime = 5;
     [SerializeField]
     private GameTime gameTime;
 
