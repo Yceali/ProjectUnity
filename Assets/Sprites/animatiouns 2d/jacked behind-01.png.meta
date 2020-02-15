@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: c2d5d634a008ddd4b9cec663211f4ba4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3230639934433960395
+    second: jacked behind-01_0
+  - first:
+      213: -45553115034430487
+    second: jacked behind-01_1
+  - first:
+      213: 3465094582043440742
+    second: jacked behind-01_2
+  - first:
+      213: -8656190450571182495
+    second: jacked behind-01_3
+  - first:
+      213: -7987553014481471983
+    second: jacked behind-01_4
+  - first:
+      213: 122224238952111009
+    second: jacked behind-01_5
+  - first:
+      213: 1286690351171925583
+    second: jacked behind-01_6
+  - first:
+      213: 685922407582321434
+    second: jacked behind-01_7
+  - first:
+      213: 264288284654158872
+    second: jacked behind-01_8
+  - first:
+      213: 4982414374852179474
+    second: jacked behind-01_9
+  - first:
+      213: 870477589660702645
+    second: jacked behind-01_10
+  - first:
+      213: 6838293164881490415
+    second: jacked behind-01_11
+  - first:
+      213: -1193825188216893122
+    second: jacked behind-01_12
+  - first:
+      213: 720572432312193840
+    second: jacked behind-01_13
+  - first:
+      213: 8152458605015624237
+    second: jacked behind-01_14
+  - first:
+      213: 1064141921041721352
+    second: jacked behind-01_15
+  - first:
+      213: -3583401756458163544
+    second: jacked behind-01_16
+  - first:
+      213: 4945474908496899544
+    second: jacked behind-01_17
+  - first:
+      213: -1916148931596220974
+    second: jacked behind-01_18
+  - first:
+      213: -3626584875086036896
+    second: jacked behind-01_19
+  - first:
+      213: 2207235359873422968
+    second: jacked behind-01_20
+  - first:
+      213: 5776214578984830351
+    second: jacked behind-01_21
+  - first:
+      213: 7311128356335562272
+    second: jacked behind-01_22
+  - first:
+      213: -8637772365643396287
+    second: jacked behind-01_23
+  - first:
+      213: 702467302568630705
+    second: jacked behind-01_24
+  - first:
+      213: 6638212416996737807
+    second: jacked behind-01_25
+  - first:
+      213: -317547704517198608
+    second: jacked behind-01_26
+  - first:
+      213: -979505445104980122
+    second: jacked behind-01_27
+  - first:
+      213: -8097813951082585101
+    second: jacked behind-01_28
+  - first:
+      213: -3378226901971270475
+    second: jacked behind-01_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jacked behind-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61ca6034d046942b828c0725cd5ed7
+      internalID: 3230639934433960395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_1
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffade5ce7d7a134995cde7290c4e821
+      internalID: -45553115034430487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_2
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b7fe264b18bca42a7b7211dff0c8a2
+      internalID: 3465094582043440742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_3
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56e4b6815c37fa419c1e65699a8ec26
+      internalID: -8656190450571182495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_4
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7c2a138d29e6f4397b1b54c0dcd547
+      internalID: -7987553014481471983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_5
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25799b8ec753f1c4f887308d5b35178f
+      internalID: 122224238952111009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72022311087996b48b6f63c0cd906b7a
+      internalID: 1286690351171925583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a36547b6cb92cb45a529247c7a96027
+      internalID: 685922407582321434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_8
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040638f538a22fc4ea2ed41fefc0e497
+      internalID: 264288284654158872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_9
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6cf4db6c6d11646941ab1c6a4ec337
+      internalID: 4982414374852179474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_10
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b324f1b57a8c0e4e8eb48d02c83f3af
+      internalID: 870477589660702645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_11
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1ec16c5eb6804b886794198378a9e
+      internalID: 6838293164881490415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c75a1ba33b6884b88670f5e1d256d8
+      internalID: -1193825188216893122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40448934da62dbb45935af1fd696fa36
+      internalID: 720572432312193840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_14
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15202f6d2e4e1fb45832cd53c1da93e0
+      internalID: 8152458605015624237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_15
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9cdaf03fdfcaa46ab12f5b3d9917a8
+      internalID: 1064141921041721352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_16
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6704ec2a06b5746bb70eba496af194
+      internalID: -3583401756458163544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_17
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869b0685b4a186d428a47b823a263ea9
+      internalID: 4945474908496899544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30778f1b7a00e134380c8176982fa53a
+      internalID: -1916148931596220974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_19
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94640aca90afe343a0d32731b0f6b7b
+      internalID: -3626584875086036896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_20
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b7c6cd250286d4bafb104d0c64995e
+      internalID: 2207235359873422968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_21
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6faa11c211ed448aecc9ee65c633d7
+      internalID: 5776214578984830351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_22
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6b2193a1d7cfd48b53d3cbb62f12ba
+      internalID: 7311128356335562272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_23
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45701f0f4d2ac44186777358e77a80c
+      internalID: -8637772365643396287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2c83aa3f540a419d2f77ffe578668
+      internalID: 702467302568630705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_25
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd98466a85bc8b4b865ace01db68e92
+      internalID: 6638212416996737807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_26
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0fc616baf7a7a4d9da208125315b1c
+      internalID: -317547704517198608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_27
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa10349731a395f42a7f570481a80a7d
+      internalID: -979505445104980122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_28
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab72d45d04c45442b1702d353d54118
+      internalID: -8097813951082585101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jacked behind-01_29
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0973c4a83ac1df7468aabba6e2b378aa
+      internalID: -3378226901971270475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

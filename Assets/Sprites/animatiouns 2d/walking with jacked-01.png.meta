@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: e08fe3599a57f2e4fa7b8eeb423d43f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7055936367094630634
+    second: walking with jacked-01_0
+  - first:
+      213: 1696001884617975147
+    second: walking with jacked-01_1
+  - first:
+      213: 235280527918000774
+    second: walking with jacked-01_2
+  - first:
+      213: 2224185986537669901
+    second: walking with jacked-01_3
+  - first:
+      213: -3140583926891785769
+    second: walking with jacked-01_4
+  - first:
+      213: 708584665087253716
+    second: walking with jacked-01_5
+  - first:
+      213: 7254337719724914431
+    second: walking with jacked-01_6
+  - first:
+      213: -7420713813060964784
+    second: walking with jacked-01_7
+  - first:
+      213: -886931098645213300
+    second: walking with jacked-01_8
+  - first:
+      213: -649501991684319708
+    second: walking with jacked-01_9
+  - first:
+      213: 9069141239253217242
+    second: walking with jacked-01_10
+  - first:
+      213: 2163532742692146465
+    second: walking with jacked-01_11
+  - first:
+      213: 7965355749017937068
+    second: walking with jacked-01_12
+  - first:
+      213: -2364298082681734236
+    second: walking with jacked-01_13
+  - first:
+      213: -8250413325014398729
+    second: walking with jacked-01_14
+  - first:
+      213: 4316131171622040779
+    second: walking with jacked-01_15
+  - first:
+      213: 2783066346070386246
+    second: walking with jacked-01_16
+  - first:
+      213: -7366609699063149998
+    second: walking with jacked-01_17
+  - first:
+      213: 8966482193410101497
+    second: walking with jacked-01_18
+  - first:
+      213: -7910075482653451390
+    second: walking with jacked-01_19
+  - first:
+      213: 106680018747652926
+    second: walking with jacked-01_20
+  - first:
+      213: 3825579142456682350
+    second: walking with jacked-01_21
+  - first:
+      213: 6936678579108701498
+    second: walking with jacked-01_22
+  - first:
+      213: -6831208796890473015
+    second: walking with jacked-01_23
+  - first:
+      213: -6261805339430445910
+    second: walking with jacked-01_24
+  - first:
+      213: 9149889300449161655
+    second: walking with jacked-01_25
+  - first:
+      213: -6928172027456679346
+    second: walking with jacked-01_26
+  - first:
+      213: -6724618434316482000
+    second: walking with jacked-01_27
+  - first:
+      213: -1041511573958477203
+    second: walking with jacked-01_28
+  - first:
+      213: 289755604300027783
+    second: walking with jacked-01_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walking with jacked-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d1eb8010a177b43b9cc5c361ec737f
+      internalID: -7055936367094630634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_1
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018d34b9da557ab42af1638f1c2d55ac
+      internalID: 1696001884617975147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_2
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07d0b9aecb06024db3d9bd60d876f8b
+      internalID: 235280527918000774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_3
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7e2ab352d6414cb6f60bc63c79ba0
+      internalID: 2224185986537669901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_4
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e61294b1749064bb75f681e7cd5aa8
+      internalID: -3140583926891785769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_5
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 5000
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d2fb7c7a3e65b42a740e8022ce0481
+      internalID: 708584665087253716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13555a51546fad34aa51a9c1847cd983
+      internalID: 7254337719724914431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f76056c514436146bccac342746f4ee
+      internalID: -7420713813060964784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_8
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8e54bad9401e4b9125fca51fc091a
+      internalID: -886931098645213300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_9
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7f813ec8cae8e4bb746774d5eac807
+      internalID: -649501991684319708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_10
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3ddbe16f52e284d80a705a36a87c4a
+      internalID: 9069141239253217242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_11
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 3750
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e979936d7144b2a4bbf4410ab2b72e23
+      internalID: 2163532742692146465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014e740060f972248b5b9d2b8c3820fb
+      internalID: 7965355749017937068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26602475d0c81949928dc9e02c7a95c
+      internalID: -2364298082681734236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_14
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6f5182303de844b17d326fdebb000
+      internalID: -8250413325014398729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_15
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155cb366dedd8fb43b1bdc5d845c6399
+      internalID: 4316131171622040779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_16
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8497adbefe5714daafac93861ab134
+      internalID: 2783066346070386246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_17
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 2500
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dadff30c7204a941a2764a345692d06
+      internalID: -7366609699063149998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018987642610e724db964b7b3c470acb
+      internalID: 8966482193410101497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_19
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf62b73167ce645891d68cb42ef10a
+      internalID: -7910075482653451390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_20
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfa50cf75ac1eb448c2f576db9914dc
+      internalID: 106680018747652926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_21
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90df8e284393af141b16af7581798517
+      internalID: 3825579142456682350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_22
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d873c168737ea40a275adb3d077f9c
+      internalID: 6936678579108701498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_23
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 1250
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed9887ba498e74aa41e55878856ad2
+      internalID: -6831208796890473015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7304be6d71438084aab999c5ea7f3cb6
+      internalID: -6261805339430445910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_25
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e9aee0e154f944a1e9396d1631e04
+      internalID: 9149889300449161655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_26
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719aec7087d1cc044b9caad78c7c20fd
+      internalID: -6928172027456679346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_27
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5135fe27849b70e45ad480415e001e2a
+      internalID: -6724618434316482000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_28
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167e74d3bba853a4babe6dd1f721ef0e
+      internalID: -1041511573958477203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking with jacked-01_29
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 0
+        width: 833.3333
+        height: 1250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d62c290a685594b9888591a02485e6
+      internalID: 289755604300027783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
